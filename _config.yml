@@ -1,4 +1,6 @@
-
-title: "My Blog"
-description: "A simple GitHub Pages blog."
-theme: minima
+title: Computer Science and Math Student Blog
+description: Here I describe my experiences of being a double bachelor honors track student in Computer Science and Mathematics at the University of Eindhoven. 
+baseurl: "" # Leave empty if it's a user/organization site (username.github.io)
+url: "https://IgnasSab.github.io" # Replace with your actual site URL
+theme: minima # Default theme provided by Jekyll
+color_scheme: dark

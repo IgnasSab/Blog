@@ -4,4 +4,3 @@ baseurl: "/Blog" # Leave empty if it's a user/organization site (username.github
 url: "https://IgnasSab.github.io" # Replace with your actual site URL
 theme: minima # Default theme provided by Jekyll
 color_scheme: dark
-custom_css: assets/custom-dark.css
